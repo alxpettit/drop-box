@@ -3,7 +3,7 @@ name = "drop-box"
 version = "0.1.0"
 edition = "2021"
 description = "A smart pointer that allows you to automatically run a callback when a value is dropped."
-license = "lgpl-3.0"
+license = "LGPL-3.0-only"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
